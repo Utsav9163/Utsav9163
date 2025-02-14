@@ -2,11 +2,7 @@
 <h1 align="center">Hi 👋, I'm Utsav Kumar Gupta</h1>
 <h3 align="center">🚀A passionate Web developer🚀</h3>
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38C2FF&center=true&vCenter=true&width=650&lines=Passionate+about+Web+Development+%F0%9F%8C%90;Learning+Cloud+%26+Machine+Learning+%F0%9F%92%BB;Building+Open+Source+Projects+%E2%9C%A8;Always+Eager+to+Learn+More!+%F0%9F%91%8D" alt="Typing SVG" />
-</div>
 
----
 
 <img align="right" alt="Coding"width="300" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
