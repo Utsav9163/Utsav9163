@@ -34,6 +34,8 @@
 </a>
 <a href="https://youtube.com/@Utzzz-" target="_blank">
 <img src="https://soumojitshomeblog.vercel.app/assets/badge/youtube-badge.svg" alt="youtube" style="margin-bottom: 5px;" />
+    <a href="https://www.instagram.com/___.unconscious.___/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <a href="https://utsav-portfolio-ten.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </a>  
   
 </div>  
