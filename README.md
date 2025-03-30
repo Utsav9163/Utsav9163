@@ -12,7 +12,8 @@
 ## 💼 **Freelance Work**
 📩 Need development work? Feel free to **reach out** via **[Email](mailto:utsavkumargupta89@gmail.com)**!
 
-## 🌐 Socials:
+## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
+  width="28" /> &nbsp;&nbsp;&nbsp; Socials🌐:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/vqc5uGQe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/___.unconscious.___/profilecard/?igsh=MmkxNjd5dTg1aDc1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsav-kumar-gupta-3986a228a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/6Oexknmh7) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Utsav-Kumar-Gupta-3?ch=3&oid=2801356269&share=7ed6e532&srid=3E3SrY&target_type=user) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/27557440/utsav-kumar-gupta?tab=profile) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/utsav9163) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Utsav9163?t=TpwrXA8Qz6WX2Mc2_nbTfA&s=08) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/itz_utsav) 
 
 [<img src="https://i.ibb.co/VVz7MbY/Lx.gif" alt="Lx" border="0">]()
