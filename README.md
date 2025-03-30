@@ -6,7 +6,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38C2FF&center=true&vCenter=true&width=650&lines=Passionate+about+Web+Development+%F0%9F%8C%90;Learning+Cloud+%26+Machine+Learning+%F0%9F%92%BB;Building+Open+Source+Projects+%E2%9C%A8;Always+Eager+to+Learn+More!+%F0%9F%91%8D" alt="Typing SVG" />
 </div>
 ---
-💫 About Me: 
+## 💫 About Me: 
+
 <br>🔭 I’m currently working on:<br><br>Creating a portfolio website showcasing my skills and projects, with a focus on clean, user-friendly interfaces.<br><br><br>👯‍♀️ I’m looking to collaborate on:<br><br>Projects that promote sustainability and social impact through technology.<br><br><br>🤝 I’m looking for help with:<br><br>Building a stronger online presence and networking with other developers in my community.<br><br><br>🌱 I’m currently learning:<br><br>Design principles and UX best practices to enhance the user experience of my web applications.<br><br><br>💬 Ask me about:<br><br>Productivity hacks and the best resources for learning web dev.<br><br><br>⚡ Fun fact:<br><br>I initially started as a front-end developer but quickly fell in love with backend technologies, making me a full-stack enthusiast!
 
 ## 💼 **Freelance Work**
